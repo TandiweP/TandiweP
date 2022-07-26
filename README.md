@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @TandiweP
-- 👀 I’m interested in open source projects.
-- 🌱 I’m currently learning JavaScript. 
-- 💞️ I’m looking to collaborate on opensource projects
+- Hi, I’m Billie
+- I'm transitioning from a teaching career to Development. I am a Full Stack Developer, but am focusing on the front end. 
 - 📫 You can reach me on LinkedIn: www.linkedin.com/in/billiekporter
 
 <!---
